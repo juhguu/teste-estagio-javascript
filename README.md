@@ -1,15 +1,3 @@
-#Teste Javascript para estágio em desenvolvimento
-
-
-Bem vindo(a), este é um teste básico para avaliarmos a capacidade de resolução de problemas em tecnologias web, mais precisamente Javascript.
-
-Siga atentamente as recomendações e dentro do prazo informado em seu email, forneça a solução.
-
-###Quem pode realizar este teste?
-
-SOMENTE serão aceitas resoluções de candidatos a estágio que receberam um email contendo o link e o prazo para resolução e NUNCA via Pull Request. A resolução deve ser enviada via link respondendo o email recebido.
-
-
 ###Primeiros passos
 
 Somente aceitaremos testes enviados via Github, caso não saiba do que se trata, clique neste [link](https://github.com/) [você será redirecionado, então sugiro abrir em uma nova aba]. Você deve enviar o link para o seu repositório (projeto) no github para que possamos avaliar a sua resolução.
